@@ -1,42 +1,43 @@
 
 body {
   text-align: center;
+  font-family: helvetica;
 }
 
-.topimage {
-  background-image: url(/Users/LeeSchneider/github/broadwaydesign/resources/icons/the-flatiron-building.png);
+h1 h2 h3 {
+  font-weight: bold;
+}
+
+.hero {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
+  text-align: center;
+  color: white;
   background-position: center;
 }
-.topimage h1 {
-  font-family: helvetica;
+
+.hero h1 {
   font-size: 70px;
-  font-weight: bold;
-  color: white;
-}
-.topimage a {
-  font-family: helvetica;
-  font-size: 18px;
-  color: white;
 }
 
+.hero a{
+  color: white;
+}
 h2 {
-  font-family: helvetica;
   font-size: 32px;
-  font-weight: bold;
 }
 
-h3 {
-  background-image: url(/Users/LeeSchneider/github/broadwaydesign/resources/icons/the-flatiron-building.png);
+.support h3 {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
   color: white;
   font-size: 23px;
-  font-weight: bold;
+  background-position: center;
 }
 
-.footer p{
+.footer {
   text-align: left;
-  font-family: helvetica;
   font-size: 11px;
   background-color: dimgray;
+  color: white;
 }
 
 .footer a {
@@ -44,12 +45,10 @@ h3 {
 }
 
 .point {
-  font-family: helvetica;
   font-size: 32px;
   font-weight: bold;
 }
 
 .bullet {
-  font-family: helvetica;
   font-size: 14px;
 }
