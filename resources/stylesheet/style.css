@@ -1,0 +1,54 @@
+
+body {
+  text-align: center;
+}
+
+.topimage {
+  background-image: url(/Users/LeeSchneider/github/broadwaydesign/resources/icons/the-flatiron-building.png);
+  background-position: center;
+}
+.broadway {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.toplinks a {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  background-image: url(/Users/LeeSchneider/github/broadwaydesign/resources/icons/the-flatiron-building.png);
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  font-family: helvetica;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+.footer a {
+  color: white;
+}
+
+.point {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.bullet {
+  font-family: helvetica;
+  font-size: 14px;
+}
