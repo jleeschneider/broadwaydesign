@@ -7,13 +7,13 @@ body {
   background-image: url(/Users/LeeSchneider/github/broadwaydesign/resources/icons/the-flatiron-building.png);
   background-position: center;
 }
-.broadway {
+.topimage h1 {
   font-family: helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
-.toplinks a {
+.topimage a {
   font-family: helvetica;
   font-size: 18px;
   color: white;
@@ -24,6 +24,7 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
+
 h3 {
   background-image: url(/Users/LeeSchneider/github/broadwaydesign/resources/icons/the-flatiron-building.png);
   color: white;
@@ -31,7 +32,7 @@ h3 {
   font-weight: bold;
 }
 
-.footer {
+.footer p{
   text-align: left;
   font-family: helvetica;
   font-size: 11px;
